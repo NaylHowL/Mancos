@@ -1,0 +1,56 @@
+[05:58:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:58:46] [ServerMain/INFO]: No existing world data, creating new world
+[05:58:47] [ServerMain/INFO]: Loaded 1407 recipes
+[05:58:47] [ServerMain/INFO]: Loaded 1520 advancements
+[05:58:47] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[05:58:47] [Server thread/INFO]: Loading properties
+[05:58:47] [Server thread/INFO]: Default game type: SURVIVAL
+[05:58:47] [Server thread/INFO]: Generating keypair
+[05:58:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:58:47] [Server thread/INFO]: Using epoll channel type
+[05:58:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:58:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:58:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:58:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:58:47] [Server thread/INFO]: Preparing level "world"
+[05:58:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:58:57] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[05:58:58] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[05:58:58] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[05:58:59] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[05:58:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[05:59:00] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[05:59:00] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[05:59:01] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[05:59:01] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[05:59:02] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[05:59:02] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[05:59:03] [Worker-Main-3/INFO]: Preparing spawn area: 34%
+[05:59:03] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[05:59:04] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[05:59:04] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[05:59:05] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[05:59:05] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[05:59:06] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[05:59:06] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[05:59:06] [Server thread/INFO]: Time elapsed: 9199 ms
+[05:59:06] [Server thread/INFO]: Done (19.109s)! For help, type "help"
+[05:59:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:59:06] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/Mancos/msx.py<--[HERE]
+[06:00:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:00:39] [Server thread/INFO]: NaylPain[/127.245.18.126:37163] logged in with entity id 50 at (36.5, 68.0, -67.5)
+[06:00:39] [Server thread/INFO]: NaylPain joined the game
+[06:06:30] [Server thread/INFO]: Gunter[/127.219.136.197:53547] logged in with entity id 1365 at (23.5, 70.0, -65.5)
+[06:06:30] [Server thread/INFO]: Gunter joined the game
+[06:06:34] [Server thread/INFO]: [Not Secure] <Gunter> pene
+[06:06:35] [Server thread/INFO]: [Not Secure] <NaylPain> A
+[06:06:49] [Server thread/INFO]: [Not Secure] <NaylPain> bueno ya esta, los 16 GB gratis
+[06:06:52] [Server thread/INFO]: [Not Secure] <Gunter> simon si me dejo entrar
+[06:06:55] [Server thread/INFO]: [Not Secure] <Gunter> alv
+[06:07:11] [Server thread/INFO]: [Not Secure] <NaylPain> ya desconecta si quieres
+[06:07:12] [Server thread/INFO]: [Not Secure] <Gunter> cuantos mods planeas meter
+[06:07:13] [Server thread/INFO]: NaylPain lost connection: Disconnected
+[06:07:13] [Server thread/INFO]: NaylPain left the game
+[06:07:14] [Server thread/INFO]: Gunter lost connection: Disconnected
+[06:07:14] [Server thread/INFO]: Gunter left the game
+[06:08:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
